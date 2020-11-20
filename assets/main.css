@@ -76,10 +76,9 @@ h1, h3{
 
 	height: 120px;
 	line-height: 120px;
-	text-align: center;
-	background-color: black;
+	background-color: white;
 	font-family: monospace;
-}
+  }
 
 .heading-container {
 	margin-top: 100px;
