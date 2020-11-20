@@ -10,9 +10,9 @@ Semantic html is present along with some styling with CSS. Bio & Contact form ca
 
 
 ## Installation
-link to gitHub >
+link to gitHub >  https://github.com/silvsarah/CSS-Bootstrap-Homework-2
 
-link to the website > 
+link to the website > https://silvsarah.github.io/CSS-Bootstrap-Homework-2/index.html
 
 # Screenshots
 ![Screenshot demo](assets/screenshot-bio.png)
